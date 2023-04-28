@@ -85,7 +85,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 <a href="https://medium.com/@catouillard.benjamin" target="_blank">
-<img src=https://img.shields.io/badge/medium-%2300acee.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/medium-%23FFF.svg?&style=for-the-badge&logo=medium&logoColor=black alt=medium style="margin-bottom: 5px;" />
 </a> 
 </div>  
   
