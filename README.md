@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Benjamin, DevOps engineer working at Synapsys IT in France 🚀</div>  
+### <div align="center">I'm Benjamin, DevOps engineer working at Sfeir in France 🚀</div>  
   
 
 - 💻 I used to work as a web developper  
